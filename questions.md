@@ -39,7 +39,7 @@ Following are some questions to be discussed.
  - What does `autogen`.sh` and `configure` does while building bitcoin core from source?
 
 
-# 03_0_Understanding_Your_Bitcoin_Setup
+## 03_0_Understanding_Your_Bitcoin_Setup
 
  - What is `bitcoin-cli`? What happens when you run `bitcoin-cli` command without starting `bitcoind`?
  - Whats the difference between different node types, ex: mainnet, testnet, signet, and regtest?
@@ -57,7 +57,7 @@ Following are some questions to be discussed.
  - What is a Transaction Id? What other `bitcoin-cli` calls are there that take in a `txid`? Why are `txid`s useful?
  - What is a descriptor? What is it useful for?
 
-# 04_0_Sending_Bitcoin_Transactions
+## 04_0_Sending_Bitcoin_Transactions
 
  - What are the components of a transaction structure? Describe in brief each component and the data they contain.
  - What is the transaction fee? Why a transaction has fees? How to determine a suitable fee at the time of transaction creation?
@@ -68,7 +68,7 @@ Following are some questions to be discussed.
  - What is the difference between a segwit and a normal transaction?
 
 
-# 05_0_Controlling_Bitcoin_Transactions
+## 05_0_Controlling_Bitcoin_Transactions
 
  - What is sequence number? What are the different ways it can be used to lock transactions?
  - What is RBF? What is it useful for?
@@ -76,7 +76,7 @@ Following are some questions to be discussed.
  - What are some practical use cases of CPFP (hint: Lightning anchor outputs in channel opening transactions)
  - What happens when a transaction being bumped by CPFP also gets RBF'd at the same time? What happens to the child transaction?
 
-# 06_0_Expanding_Bitcoin_Transactions_Multisigs
+## 06_0_Expanding_Bitcoin_Transactions_Multisigs
 
  - What is a multisig? What are the common script types for multisig addresses?
  - Why is it important to preserve the order of keys in multisig addresses for address generation? What happens if the order isn't preserved?
@@ -85,19 +85,19 @@ Following are some questions to be discussed.
  - Explain the use of `addmultisigaddress` command. When is it useful over vanilla multisig generation?
 
 
-# 07_0_Expanding_Bitcoin_Transactions_PSBTs
+## 07_0_Expanding_Bitcoin_Transactions_PSBTs
 
  - What is a PSBT and why is it useful?
  - What are the different components of PSBT? Can you explain each part and it's use in brief?
  - What is HWI? What it is useful for?
 
 
-# 08_0_Expanding_Bitcoin_Transactions_Other
+## 08_0_Expanding_Bitcoin_Transactions_Other
  - How locktime via unix time and via blockheight are differentiated from the transaction data? [extra resources]
  - What is a LockTime? Why locktimes are useful?
  - What is OP_RETURN? How are the useful? What happens in script verification when when it encounters an OP_RETURN?
 
-# 09_0_Introducing_Bitcoin_Scripts
+## 09_0_Introducing_Bitcoin_Scripts
 
  - What is ScriptPubkey and ScriptSigs? How they are used in the script verification?
  - Why P2PKH is needed when we already had P2PK. [Extra reading resources]
@@ -106,7 +106,7 @@ Following are some questions to be discussed.
  - What are standard and nonstandard script_pubkeys? Can you create an submit a transaction with nonstandrd pubkey to you mempool? [Hint: Create a transaction with addition script, call testmempoolaccept].
  - How can you broadcast a non-standard reedemscript?
 
-# 10_0_Embedding_Bitcoin_Scripts_in_P2SH_Transactions
+## 10_0_Embedding_Bitcoin_Scripts_in_P2SH_Transactions
 
  - Describe the script verification mechanism of P2SH.
  - Why P2SH is useful when we can have the raw locking script inside the script_pubkey?
@@ -115,7 +115,7 @@ Following are some questions to be discussed.
  - What is the reason for wrapping P2WSH inside a P2SH?
 
 
-# 11_0_Empowering_Timelock_with_Bitcoin_Scripts
+## 11_0_Empowering_Timelock_with_Bitcoin_Scripts
 
  - What are the limitations of nLockTime?
  - What is the difference between relative and absolute locktime?
@@ -124,19 +124,19 @@ Following are some questions to be discussed.
  - Describe in brief how CSV verification works.
  - What happens when a transaction includes both nlocktime and nsequqnce values? What is the error in testmempool accept when using a transaction like that.
 
-# 12_0_Expanding_Bitcoin_Scripts
+## 12_0_Expanding_Bitcoin_Scripts
  - How can script conditionals cause transaction malleability? [wizard]
  - What are some real world conditional script examples?
  - What are some practical examples of OP_SWAP?
 
-# 13_0_Designing_Real_Bitcoin_Scripts
+## 13_0_Designing_Real_Bitcoin_Scripts
  - What can multisig escrows be useful for?
  - What are some real world exmaple of Multisig escrows?
  - Is there any real world examples of complex bare scripts?
  - What is the size constraints of Bitcoin reedemscripts?
 
 
-# General Extra Resource Questions:
+## General Extra Resource Questions:
  - Standardness Rules.
    - Why having bigger mempool is actually a bad idea?
    -
@@ -147,16 +147,3 @@ Following are some questions to be discussed.
  - Relay Policies.
  - Blockchain, blockheaders, related RPCs.
  - P2P and related RPCs.
-
-# Wizard Questions
- -
-
-# Exercises
-
- - Week 2: Installation, Setting up, Running the wallet.
- - Week 3: Transaction creation + RBF/CPFP.
- - Week 4: Multisig + PSBT.
- - Week 5: Locktime, OP_RETURN, P2PKH/P2WPKH Scripts.
- - Week 6: Locktime + P2SH/P2WSH(nested).
- - Week 7: Conditionals and puzzle scripts.
-
