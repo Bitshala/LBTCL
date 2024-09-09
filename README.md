@@ -11,12 +11,14 @@ each week as detailed in [Cohort Structure and Timeline](#cohort-structure-and-t
 You'll also get exercise questions to help you understand the content better.
 
 ### Index:
-- [About](#about)
-- [Prerequisites](#prerequisites)
-- [Cohort Overview](#cohort-overview)
-- [Cohort Structure and Timeline](#cohort-structure-and-timeline)
-- [Dates & Times for Group Sessions](#dates--times-for-group-sessions)
-- [Join our Discord server](#join-our-discord-server)
+- [Learning Bitcoin From Command Line Cohort](#learning-bitcoin-from-command-line-cohort)
+    - [Index:](#index)
+  - [About](#about)
+  - [Prerequisites](#prerequisites)
+  - [Cohort Overview](#cohort-overview)
+  - [Cohort Structure and Timeline](#cohort-structure-and-timeline)
+  - [Dates \& Times for Group Sessions](#dates--times-for-group-sessions)
+  - [Join our Discord server](#join-our-discord-server)
 
 ## About
 Learning Bitcoin from the Command Line is a comprehensive tutorial series that teaches you how to use Bitcoin Core through the command line. The series covers all the
@@ -42,15 +44,14 @@ The cohort program spans 8 weeks and follows the schedule outlined below:
 
 | Week                             | LBTCL Chapters            | Content                                                  |
 |----------------------------------|---------------------------|----------------------------------------------------------|
-| Week 1 (14 July)                 | Introduction              | -                                                        |
-| Week 2 (15 July - 21 July)       | Chapters 1, 2, and 3      | Intro, Setting up Bitcoin Core                           |
-| Week 3 (22 July - 28 July)       | Chapters 4 and 5          | Bitcoin transactions, RBF, CPFP                          |
-| Week 4 (29 July - 4 August)      | Chapters 6 and 7          | Multisig, PSBT                                           |
-| Week 5 (5 August - 11 August)    | Chapters 8 and 9          | Sending transactions with locktime/data, Bitcoin Scripts |
-| Week 6 (12 August - 18 August)   | Chapters 10 and 11        | Bitcoin Scripts in P2SH, timelocks                       |
-| Week 7 (19 August - 25 August)   | Chapters 12 and 13        | Designing real Bitcoin Scripts                           |
-| Week 8 (26 August - 1 September) | Conclusion and Next Steps | -                                                        |
-
+| Week 1 (13 September)            | Introduction              | -                                                        |
+| Week 2 (14 September - 20 September) | Chapters 1, 2, and 3      | Intro, Setting up Bitcoin Core                           |
+| Week 3 (21 September - 27 September) | Chapters 4 and 5          | Bitcoin transactions, RBF, CPFP                          |
+| Week 4 (28 September - 4 October) | Chapters 6 and 7          | Multisig, PSBT                                           |
+| Week 5 (5 October - 11 October)  | Chapters 8 and 9          | Sending transactions with locktime/data, Bitcoin Scripts |
+| Week 6 (12 October - 18 October) | Chapters 10 and 11        | Bitcoin Scripts in P2SH, timelocks                       |
+| Week 7 (19 October - 25 October) | Chapters 12 and 13        | Designing real Bitcoin Scripts                           |
+| Week 8 (26 October - 1 November) | Conclusion and Next Steps | -                                                        |
 The structure of the cohort program is designed for self-study. Each week, participants will be assigned to a group to receive questions related to the scheduled chapters.
 Participants are expected to study the material, prepare answers to their questions, and actively participate in the weekly group discussion sessions, where they will explain
 their answers to other participants.
