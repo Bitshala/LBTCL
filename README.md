@@ -44,14 +44,14 @@ The cohort program spans 8 weeks and follows the schedule outlined below:
 
 | Week                             | LBTCL Chapters            | Content                                                  |
 |----------------------------------|---------------------------|----------------------------------------------------------|
-| Week 1 (13 September)            | Introduction              | -                                                        |
-| Week 2 (14 September - 20 September) | Chapters 1, 2, and 3  | Intro, Setting up Bitcoin Core                           |
-| Week 3 (21 September - 27 September) | Chapters 4 and 5      | Bitcoin transactions, RBF, CPFP                          |
-| Week 4 (28 September - 4 October) | Chapters 6 and 7         | Multisig, PSBT                                           |
-| Week 5 (5 October - 11 October)  | Chapters 8 and 9          | Sending transactions with locktime/data, Bitcoin Scripts |
-| Week 6 (12 October - 18 October) | Chapters 10 and 11        | Bitcoin Scripts in P2SH, timelocks                       |
-| Week 7 (19 October - 25 October) | Chapters 12 and 13        | Designing real Bitcoin Scripts                           |
-| Week 8 (26 October - 1 November) | Conclusion and Next Steps | -                                                        |
+| Week 1 (13 September - 20 September) | Introduction              | -                                                        |
+| Week 2 (21 September - 27 September) | Chapters 1, 2, and 3      | Intro, Setting up Bitcoin Core                           |
+| Week 3 (28 September - 4 October) | Chapters 4 and 5          | Bitcoin transactions, RBF, CPFP                          |
+| Week 4 (5 October - 11 October)  | Chapters 6 and 7          | Multisig, PSBT                                           |
+| Week 5 (12 October - 18 October) | Chapters 8 and 9          | Sending transactions with locktime/data, Bitcoin Scripts |
+| Week 6 (19 October - 25 October) | Chapters 10 and 11        | Bitcoin Scripts in P2SH, timelocks                       |
+| Week 7 (26 October - 1 November) | Chapters 12 and 13        | Designing real Bitcoin Scripts                           |
+| Week 8 (2 November - 8 November) | Conclusion and Next Steps | -                                                        |
 
 The structure of the cohort program is designed for self-study. Each week, participants will be assigned to a group to receive questions related to the scheduled chapters.
 Participants are expected to study the material, prepare answers to their questions, and actively participate in the weekly group discussion sessions, where they will explain
