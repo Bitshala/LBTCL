@@ -67,7 +67,7 @@ within the designated timeframe.
 The cohort begins on the 14th July 2023. Note the important cohort program timings:
 
     Weekly Group Session: Fridays, 8:00 PM to 9:30 PM IST (2:30 PM - 3:30 PM UTC).
-    Weekly Exercise Submission Due: Before Sunday, 12:00 AM (Midnight, IST)(6:30 PM UTC).
+    Weekly Exercise Submission Due: Before **Next Sunday**, 12:00 AM (Midnight, IST)(6:30 PM UTC).
 
 To apply for the cohort program, please apply [here](https://www.bitshala.org/apply). We look forward to providing you with an incredible learning experience at Bitshala!
 
